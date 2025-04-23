@@ -1,0 +1,11 @@
+age,price,credit_score,is_active_member,customer_type,gender
+25,3000,650,1,Standard,Male
+34,4500,720,1,Premium,Female
+45,5500,690,1,Standard,Male
+23,2200,600,0,Standard,Female
+36,5000,710,1,Premium,Female
+60,6000,750,1,Premium,Male
+50,4000,680,0,Standard,Female
+29,3400,670,1,Standard,Male
+55,5700,730,1,Premium,Female
+40,4200,700,0,Standard,Male
